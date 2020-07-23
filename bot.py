@@ -41,4 +41,4 @@ async def send(ctx,member : discord.Member):
 
 
 
-client.run(os.environ['NzI0NjQyNDcwODkzMTkxMjYw.XxjJ4w.IwShBOZsJ3uRjWOOvhnjK7_SztE'])
+client.run(os.environ['token'])
